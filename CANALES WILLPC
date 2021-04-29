@@ -1,0 +1,327 @@
+
+#EXTM3U
+
+
+#EXTINF:-1  group-title="Lista TV", HISTORY
+https://usher.ttvnw.net/api/channel/hls/ht_ll01.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=4011535&play_session_id=2c409e3b0e7be6dc6571556575736fef&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=dbfe693212acb6c249e6ab812201b33ffcaf7a13&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ht_ll01%22%2C%22channel_id%22%3A680259219%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619658421%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", HISTORY 2
+
+
+#EXTINF:-1  group-title="Lista TV", TLC
+
+
+#EXTINF:-1  group-title="Lista TV", RCN
+
+
+#EXTINF:-1  group-title="Lista TV", CARACOL TV
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/nf0ksrnkh0f.m3u8?s=RpV3MUmB24xiadH-g4pQ7w&e=1619679546
+
+#EXTINF:-1  group-title="Lista TV", CARACOL INTERNACIONAL
+
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
+https://usher.ttvnw.net/api/channel/hls/kl_dtt0.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=9456862&play_session_id=6d8933c9be20692173b3c29ff16566b9&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=587299dc0d6e8a1cd9284b3fbcd81be728422921&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kl_dtt0%22%2C%22channel_id%22%3A680261042%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619659510%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY TURBO
+
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY THEATER
+
+
+#EXTINF:-1  group-title="Lista TV", DISCOVER SCIENCE
+
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY ID
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CtgE0-Y2jAScyi9ky0VAppcRN6t_1oZXItsru-Q32OB4qnDrYltpbV2EDVBwLmoOVsrsfasN5OkXxsx-u0x9j8V25o9F3yHy7NHcDh94r4ljXX-AjFzPoKAE0c5G9E-01tdgEQRs_UwzR0irN1ddkbmn_bDiNhYGNxWxgbKhyorUAUVDai4xzB0EdHx3gbwNn0TkhCMOBTKF5QB80oR328uwCl9NATy23BkYDbLGq5ehqIdFn28KaW7vUDC7VMS1WIkaQyYq6xyW3xFuTU1UQo9NFGRGejLQrI2geEi_wwcRWN2H78ms6gfqOhtReh81xgpnYQOA8i7N1Haaq-w7-bw0R_dWmZDhO4cGQANMHJHWui75FQoEqzBmKaDKEMNXd7ZWZSbJQsKJeEKN_UAQk3Vv7p6ZvWqSmlfADfQ4oi3l3P_fMuttd7kvj2BSPzm_gWstlpIZGnSk2gkJZU6R6y4Qkg4GaMW-K_EOXoGuv36ZV0auxee9Kz9qLnQUTKf4uPl1KywWE9Y1ZAkm1sQOdMS3QBSyxhb0MgUj6Iv1n2DnnwkEyV1GHgvQ6T4GA-p2Qqs5DGQxoVCymPHvZDno5HW49YbrcoXWgc96pQer3u9hDwfh19DLiN7Zg5oZ8XjJ9PHr_PPnvUm5_jtXw9AFYBOqqF4tYv7axdHJQmhoKznUI8YiGUtQmZemsKKsqadHD1CkqxyLzKKumvWcFslwnRA9E_I1asQ8VRIvmKyMEMlv1r8FEIK2lbJSRzAOzKtzNT7LvrPwv8K0MEdt6NErGexIzDe8HuAlKGFTEhD5qCdrhyIgSrAwEBd3m-WlGgy8v2yQ_fzbZounx1M.m3u8
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY HOME & HEALTH
+https://usher.ttvnw.net/api/channel/hls/rrk_001.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=4479852&play_session_id=eef425dedc6c8523d7b1435c3371d3c1&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=370fc2f73524302aa1b95b9409e28cea9c0e6898&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22rrk_001%22%2C%22channel_id%22%3A680256902%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619665572%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD
+
+
+#EXTINF:-1  group-title="Lista TV", AMERICA TV
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/ty60mekzppeaym.m3u8?s=WUC8_12sy7W-z0ht_xdHqA&e=1619681371
+
+#EXTINF:-1  group-title="Lista TV", WARNER CHANNEL
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/18zeyt61nbna59.m3u8?s=0nZJMmFvm0QUH_buCurTlw&e=1619685588
+
+#EXTINF:-1  group-title="Lista TV", MTV MUSIC
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/2ufkilgf.m3u8?s=NqkElyWkyTeLHdChO3xCcw&e=1619686159
+
+#EXTINF:-1  group-title="Lista TV", UNIVERSAL CHANNEL
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/l4gu8vz2x.m3u8?s=40sl4fXj3csVrYSchhcWBA&e=1619685478
+
+#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL
+
+
+#EXTINF:-1  group-title="Lista TV", TBS
+
+
+#EXTINF:-1  group-title="Lista TV", SONY
+
+
+#EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
+
+
+#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL
+
+
+#EXTINF:-1  group-title="Lista TV", SPACE
+https://usher.ttvnw.net/api/channel/hls/kx_rrt1.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=1273005&play_session_id=ff964f7d6ffc098d076b9f7737fc48e0&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=ff0fae1a55a26dc950a85cf8a7e5482679ec0231&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22kx_rrt1%22%2C%22channel_id%22%3A680262984%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619659774%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", FX
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/01uzpez2.m3u8?s=CbtPg49cYFOEghuYT2tAiA&e=1619684040
+
+#EXTINF:-1  group-title="Lista TV", FMX
+
+
+#EXTINF:-1  group-title="Lista TV", SYFY
+
+
+#EXTINF:-1  group-title="Lista TV", TMC
+
+
+#EXTINF:-1  group-title="Lista TV", AMC
+
+
+#EXTINF:-1  group-title="Lista TV", AXN
+https://usher.ttvnw.net/api/channel/hls/anxv22.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=5183577&play_session_id=f00602dd99f0ba651cc8a24fe6933333&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6b0b1e6271c6509efed1aeb7dc67ba02c0af0016&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22anxv22%22%2C%22channel_id%22%3A647096919%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619664735%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", TNT SERIE
+https://usher.ttvnw.net/api/channel/hls/k144qq.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=750942&play_session_id=6dc53622db63f18185fad2c46e9a7506&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=645a2d7652d0b6ae2a358415ea8ab5b8b6e12e5e&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22k144qq%22%2C%22channel_id%22%3A647095851%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619664950%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", TNT
+https://usher.ttvnw.net/api/channel/hls/rtt_q22l.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=8916165&play_session_id=4c389b56bcdd405d91c79fbb547b358b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=450ac25d5d33f80256f1f8484d775777035da3bd&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22rtt_q22l%22%2C%22channel_id%22%3A680254685%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619657734%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", CINECANAL
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/dssgf6jl0d.m3u8?s=-I1wqdfL6_ccqdnryeMfgA&e=1619683894
+
+#EXTINF:-1  group-title="Lista TV", CINEMAX
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/y6rk2.m3u8?s=i6JAYrZ319QOlue6c6ia3A&e=1619679249
+
+#EXTINF:-1  group-title="Lista TV", GOLDEN EDGE
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/a71es.m3u8?s=WPWW4hFchVDCHkv9ZQ6-ww&e=1619679111
+
+#EXTINF:-1  group-title="Lista TV", GOLDEN PLUS
+
+
+#EXTINF:-1  group-title="Lista TV", GOLDEN
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/otatv.m3u8?s=_uhQp-fySlkNgPaGF8h93A&e=1619684348
+
+#EXTINF:-1  group-title="Lista TV", HBO
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/dp7r8.m3u8?s=JGLE5M6mAMlD1cgwwE0Uhw&e=1619684605
+
+#EXTINF:-1  group-title="Lista TV", HBO2
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/k9mthxty06.m3u8?s=fYkvr_lg1ZXNRod2DauDBw&e=1619684820
+
+#EXTINF:-1  group-title="Lista TV", HBO PLUS
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/wgqlyzrp1w9x.m3u8?s=zvCloPmYuVX9Zyx9GqDEBA&e=1619684911
+
+#EXTINF:-1  group-title="Lista TV", HBO FAMILY
+
+
+#EXTINF:-1  group-title="Lista TV", HBO SIGNATURE
+
+
+#EXTINF:-1  group-title="Lista TV", HBO XTREME
+
+
+#EXTINF:-1  group-title="Lista TV", HBO MUNDI
+
+
+#EXTINF:-1  group-title="Lista TV", HBO POP
+
+
+#EXTINF:-1  group-title="Lista TV", FOX
+https://usher.ttvnw.net/api/channel/hls/cnn1010r.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=962226&play_session_id=4d62e73fb465460f6bde7c1e457cabbf&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=84e296ee3b35a0f93770f6f88ae9bcd245ba8f07&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cnn1010r%22%2C%22channel_id%22%3A680263974%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619651823%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", FOX ACTION
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/aip5psntu2yw2f.m3u8?s=aPQUC34qN7uy3zSC-J9Xow&e=1619677916
+
+#EXTINF:-1  group-title="Lista TV", FOX SERIES
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/n0bhzbsem47v.m3u8?s=9IiCZGrFwQbUg7MwkoqQ7Q&e=1619680044
+
+#EXTINF:-1  group-title="Lista TV", FOX FAMILY
+
+
+#EXTINF:-1  group-title="Lista TV", FOX CINEMA
+
+
+#EXTINF:-1  group-title="Lista TV", FOX COMEDY
+
+
+#EXTINF:-1  group-title="Lista TV", FOX CLASSICS
+
+
+#EXTINF:-1  group-title="Lista TV", FOX MOVIES
+
+
+#EXTINF:-1  group-title="Lista TV", FOX LIFE
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/ki90p7m7dr8n.m3u8?s=-pvpaOZiiGkihBpE1ZJjMg&e=1619685237
+
+#EXTINF:-1  group-title="Lista TV", FOX PREMIUM
+
+
+#EXTINF:-1  group-title="Lista TV", TVNOVELAS
+
+
+#EXTINF:-1  group-title="Lista TV", CANAL DE LAS ESTRELLAS
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/bsg12zvu4e01i7.m3u8?s=E4UsNJ-QueYjQEoNNlVZ2A&e=1619681790
+
+#EXTINF:-1  group-title="Lista TV", AZTECA
+
+
+#EXTINF:-1  group-title="Lista TV", AZTECA MUNDO
+
+
+#EXTINF:-1  group-title="Lista TV", AZTECA 7
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/jykbz8ou4rw9.m3u8?s=wPApzrp1IQCbwnf2EbjpAQ&e=1619680333
+
+#EXTINF:-1  group-title="Lista TV", AZTECA 13
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/7tmke.m3u8?s=CHo_GLFhatdOg8eU3bzWcA&e=1619680528
+
+#EXTINF:-1  group-title="Lista TV", TELEVISA
+
+
+#EXTINF:-1  group-title="Lista TV", CANAL26
+
+
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+
+
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS MX
+
+
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+
+
+#EXTINF:-1  group-title="Lista TV", ESPN
+
+
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+
+
+#EXTINF:-1  group-title="Lista TV", ESPN3
+
+
+#EXTINF:-1  group-title="Lista TV", ESPN PLUS
+
+
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
+
+
+#EXTINF:-1  group-title="Lista TV", FORMULA 1
+
+
+#EXTINF:-1  group-title="Lista TV", ADRENALINA SPORTS
+
+
+#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
+https://usher.ttvnw.net/api/channel/hls/tn_ttllld.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=5265461&play_session_id=4459563efadeb5f1bd9f5b1792aeff13&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=ef8960013a67e80c3c8040e7d337aea21cb0ab91&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tn_ttllld%22%2C%22channel_id%22%3A680267180%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619659281%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/e4jegqx.m3u8?s=75NQAv1chRruPfsh7_HnRQ&e=1619682799
+
+#EXTINF:-1  group-title="Lista TV", DISNEY JUNIOR
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/34fft2cvx9sy.m3u8?s=GYaT0QNIa515oelyqI9xJQ&e=1619683765
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/4k7om.m3u8?s=FYzOnichb3MRlL-vnBuRpA&e=1619683493
+
+#EXTINF:-1  group-title="Lista TV", DISNEY XD
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/e4jegqx.m3u8?s=75NQAv1chRruPfsh7_HnRQ&e=1619682799
+
+#EXTINF:-1  group-title="Lista TV", NICKELODEON
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/hg3b4k9kc.m3u8?s=k-JwNUZgZ1Mhw5Bgwvo_Qw&e=1619683175
+
+#EXTINF:-1  group-title="Lista TV", NICK MUSIC
+
+
+#EXTINF:-1  group-title="Lista TV", BABYFIRST
+
+
+#EXTINF:-1  group-title="Lista TV", TOONCAST
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/d7zi3sak.m3u8?s=rpETV9hNdRepZinAiFOz8w&e=1619683604
+
+#EXTINF:-1  group-title="Lista TV", BOOMERANG
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/bolmwc.m3u8?s=59wYFn9BDOy7ggbIxOTZag&e=1619683349
+
+#EXTINF:-1  group-title="Lista TV", KIDS TV
+
+
+#EXTINF:-1  group-title="Lista TV", DISCOVERY MAX
+
+
+#EXTINF:-1  group-title="Lista TV", CANAL COCINA
+
+
+#EXTINF:-1  group-title="Lista TV", HISTORIA
+
+
+#EXTINF:-1  group-title="Lista TV", NATIONAL GEOGRAPHIC
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/mjkj17z7apo7xp.m3u8?s=p9RcHVB9HrPPv340kiuRTg&e=1619678299
+
+#EXTINF:-1  group-title="Lista TV", NATIONAL GEOGRAPHIC WILD
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/842uq0vsfwqlx.m3u8?s=f2z-oXcwNuPXCTrBsQHM6g&e=1619685712
+
+#EXTINF:-1  group-title="Lista TV", A&E
+
+
+#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/0mv17x.m3u8?s=Af61DC6Jp0MGwEZi5KIf2g&e=1619685863
+
+#EXTINF:-1  group-title="Lista TV", AMERICA TELEVISION ARGENTINA
+https://usher.ttvnw.net/api/channel/hls/ft211k.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=7903610&play_session_id=65157fc55a9d7e804291a9dbdc196981&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=d3e45a170614639e008d6064104259b254e13234&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ft211k%22%2C%22channel_id%22%3A647099469%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619661624%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", MEGA TV CHILE
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/caatd5.m3u8?s=bHN-1y4mWUeIDdG48vxEMg&e=1619680943
+
+#EXTINF:-1  group-title="Lista TV", CHILEVISION
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/8asc3sn24.m3u8?s=WswajvEoynSlfSIBOU4_pg&e=1619672915
+ 
+#EXTINF:-1  group-title="Lista TV", ANTENA 3
+
+
+#EXTINF:-1  group-title="Lista TV", TVE1
+
+
+#EXTINF:-1  group-title="Lista TV", TVE2
+
+
+#EXTINF:-1  group-title="Lista TV", TELEPACIFICO
+
+
+#EXTINF:-1  group-title="Lista TV", TELEANTIOQUIA
+
+ 
+#EXTINF:-1  group-title="Lista TV", LA CUATRO
+
+
+#EXTINF:-1  group-title="Lista TV", RT
+https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
+ 
+#EXTINF:-1  group-title="Lista TV", MIAMI TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
+#EXTINF:-1  group-title="Lista TV", UNIVISION
+https://usher.ttvnw.net/api/channel/hls/ntt_7744.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=4339481&play_session_id=8b8f70f1d2543743e8cd709038bdde7c&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=7b1c190dfb7a496b270273d41af55ed104719472&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ntt_7744%22%2C%22channel_id%22%3A665284005%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619650959%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", TELEMUNDO
+https://usher.ttvnw.net/api/channel/hls/vrt_ii10.m3u8?allow_source=true&bndl=tv.twitch.android.app&dt=1&fast_bread=true&p=6068414&play_session_id=4afc878ddc6c7bd384e3419f50918c4a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=916b27bc11b44056880da7fcf3a4bcd350410bcc&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22vrt_ii10%22%2C%22channel_id%22%3A680265110%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22c7d97cbcb5f3ce5d%22%2C%22expires%22%3A1619651263%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.211.201.88%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
+
+#EXTINF:-1  group-title="Lista TV", ATV PERU
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/fjf5b97ntsis.m3u8?s=q1KplMlPV1fDVUH2rNA4Qg&e=1619674850
+
+#EXTINF:-1  group-title="Lista TV", LATINA TV
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/6d7wkcq.m3u8?s=JaipyAUE2N11rrqZcjrElw&e=1619675721
+
+#EXTINF:-1  group-title="Lista TV", PANAMERICANA TELEVISION
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/ty60mekzppeaym.m3u8?s=WUC8_12sy7W-z0ht_xdHqA&e=1619681371
+
+#EXTINF:-1  group-title="Lista TV", CNN
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/tpr5nzjy3d.m3u8?s=Xj4xwA6Wg50zjg_mbOhjlQ&e=1619682294
+
+#EXTINF:-1  group-title="Lista TV", MAX PRIME
+https://3sywwtv2g647qjud.ezcdn483.net:8443/hls/xd7rd3.m3u8?s=v8FWhLpmU7HS4FWsz6XwhA&e=1619684186
