@@ -12,9 +12,10 @@
 
 #EXTINF:-1  group-title="Lista TV", RCN
 
-
 #EXTINF:-1  group-title="Lista TV", CARACOL TV
 
+#EXTINF:-1  group-title="Lista TV", CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1  group-title="Lista TV", CARACOL INTERNACIONAL
 
@@ -41,7 +42,7 @@
 
 
 #EXTINF:-1  group-title="Lista TV", AMERICA TV
-
+https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
 #EXTINF:-1  group-title="Lista TV", WARNER CHANNEL
 
@@ -63,7 +64,7 @@
 
 #EXTINF:-1  group-title="Lista TV", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com:443/playlist_640x360_1200k.m3u8
-
+ 
 
 #EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
 
@@ -328,3 +329,74 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 
 #EXTINF:-1  group-title="Lista TV", MAX PRIME
 
+#EXTINF:-1  group-title="Lista TV", COSMO
+http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1929505980_b1328000_sling.m3u8
+
+#EXTINF:-1  group-title="Lista TV", A3 CINE
+https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8
+
+#EXTINF:-1  group-title="Lista TV", NUESTRA VISION
+https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_4.m3u8
+
+#EXTINF:-1  group-title="Lista TV", PLANETA KIDS
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com:443/manifest/1200.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TG KIDS
+https://stream-us-east-1.getpublica.com/cl/0faa3332-615f-4a71-8af0-1f852be4da40/640x360_350000_0.m3u8
+
+#EXTINF:-1  group-title="Lista TV", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TC ECUADOR
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELERED COSTA RICA
+http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", WMS REPUBLICA DOMINICANA
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MTV MUSIC
+https://pluto-live.plutotv.net:443/egress/chandler/pluto01/live/VIACBS07/master_750.m3u8
+
+#EXTINF:-1  group-title="Lista TV", VEVO MUSIC
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live.m3u8
+
+#EXTINF:-1  group-title="Lista TV", STINGRAY MUSIC
+https://ott-linear-channels.stingray.com:443/190/master_768x432_500kbps.m3u8
+
+#EXTINF:-1  group-title="Lista TV", MIAMI LIVE JENNY
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TV MAX PANAMA
+https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TVN
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1  group-title="Lista TV", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  group-title="Lista TV", CGTN CHINA
+https://livees.cgtn.com/500e/prog_index.m3u8
+
+#EXTINF:-1  group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+
+#EXTINF:-1  group-title="Lista TV", ADN 40
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/b6948cda-502f-44a6-864e-e90ecb0629d1:BRU/variant/97a11b0719217f7ac6884245eecf81e4/bandwidth/484000.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL 6
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1  group-title="Lista TV", CANAL 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1  group-title="Lista TV", TELEMAX
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+#EXTINF:-1  group-title="Lista TV", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
